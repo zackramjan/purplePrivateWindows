@@ -1,8 +1,8 @@
 {
   "extensionName": {
-    "message": "Purple Private Windows"
+    "message": "Private Window colors"
   },
   "extensionDescription": {
-    "message": "Windows in private mode have a purple theme. Other windows do not change their appearance."
+    "message": "Windows in private mode have a purplish colored theme. Other windows do not change their appearance."
   }
 }
