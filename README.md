@@ -12,4 +12,4 @@ Private windows are now purple.
 - Storage
 
 ## Download
-https://addons.mozilla.org/firefox/addon/purple-private-windows?src=external-github
+add the signed xpi file
